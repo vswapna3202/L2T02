@@ -1,0 +1,30 @@
+1 a)
+Data: Data are raw facts which means it has not yet been processed to reveal meaning. For eg., Customer name, customer address and contact number all these have no meaning individually unless they are organised in some logical manner say a customer file.
+
+1 b)
+Field: A field is a character or group of characters that have a specific meaning. It is used to define and store data. For example in a customer file customer name, customer address and contact number could be the fields. Fields can be thought as columns in a table.
+
+1 c)
+Record: A record is a logically connected set of one or more fields that describe a person, place or setting. For eg a customer file will have lots of customer records. Each record will have data stored in the form of fields like customer name, address, contact number etc. Records can be thought of as rows in a table.
+
+1 d)
+File: A file is a collected of related records. A customer file will typically be made of fields such as customer,name,address and records
+
+2. What is DBMS and what are its advantages?
+Database management systems are powerful applications that manages the database and provides database structure and control access to the data which are stored in the database. Database act as an intermediary between the end user and the database by hiding all the complex operations required to fulfil the end user's requests. Advantages of DBMS are 
+- Improved Data Sharing - data can be shared across multiple applications and users
+- Better data integration - an integrated view of the data in database is provided to variety of end-users
+- minimised data inconsistency - when different versions of same data appears across multiple places it results in data inconsistency. A properly designed database reduces data inconsistency through data normalisation which reduces data redundancy and increases data integrity.
+- improved data access - provides quick and efficient access to data
+- improved decision making - better managed data results in better quality information so better decisions from end-users
+- increased end user productivity - availability of accurate data results in better information which furthers better decision making from end users and increases overall productivity from them.
+
+3. Difference between data and information
+Data are just raw facts which means it has not been processed to reveal meaning. Information on the other hand is processed data usually using statistical models which has revealed its meaning. Most decision-making processes requires information and not just raw data. Useful information requires accurate data so data must be generated properly and stored in a format which is easy to access and process.
+
+4. What is Metadata?
+In databases, metadata could describe about the structure of the tables, the data types of the fields and relationships between the tables. Metadata generally provides information about other data such as structure, context, meaning and attributes. In essence metadata is data about data.
+
+5. e) How many records does the file contain? 4
+5. f) How many fields are there per record? 5 (PROJECT_CODE, PROJECT_MANAGER, MANAGER_PHONE, MANAGER_ADDRESS, PROJECT_BID_PRICE are the fields)
+	
